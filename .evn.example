@@ -1,0 +1,4 @@
+DATABASE_URL='sqlite+aiosqlite:///./bot.db'
+SECRET='SECRET'
+BOT_TOCKN='7850506500:AAGy8Khf-XlCNjbOyi8KQVsA6PHcdHul0SQ'
+
